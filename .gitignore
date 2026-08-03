@@ -1,0 +1,9 @@
+target/
+frontend/node_modules/
+.pnpm-store/
+data/downloads/*
+!data/downloads/.gitkeep
+tmp/
+.idea/
+*.iml
+*.log
